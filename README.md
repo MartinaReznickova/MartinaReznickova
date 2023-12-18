@@ -1,5 +1,11 @@
-<h1 align="center">Hello👋, I'm Martina Řezníčková!</h1>
-<h3 align="center">An aspiring junior C# developer from the Czech Republic.</h3>
+<h1>Hello👋, I'm Martina Řezníčková!</h1>
+<h3>An aspiring junior C# developer from the Czech Republic.</h3>
+<br>
+
+<p>&#128301; <strong>I'm currently working on: </strong><a href="https://github.com/MartinaReznickova/DrD_DenikPostavy"> Dračí doupě - osobní deník (ASP.NET Core)</a></p>
+<p>&#127793; <strong>I'm currently learning: </strong>ASP.NET Core MVC, ASP.NET Web API</p>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
